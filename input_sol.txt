@@ -1,0 +1,9 @@
+200  	!nx; number of intervals in x
+20  	!ns; number of record
+1.0d-4	!dt; time step
+0.25d0	!tm; max time
+
+
+
+
+
